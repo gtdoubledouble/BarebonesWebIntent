@@ -22,6 +22,10 @@
 /Users/garytse/workspace/tester/platforms/android/assets/www/css/index.css \
 /Users/garytse/workspace/tester/platforms/android/assets/www/img/logo.png \
 /Users/garytse/workspace/tester/platforms/android/assets/www/js/index.js \
+/Users/garytse/workspace/tester/platforms/android/assets/www/js/jquery \
+/Users/garytse/workspace/tester/platforms/android/assets/www/js/jquery/jquery-1.9.1.min.js \
+/Users/garytse/workspace/tester/platforms/android/assets/www/js/jquery/jquery.mobile-1.4.0.css \
+/Users/garytse/workspace/tester/platforms/android/assets/www/js/jquery/jquery.mobile-1.4.0.min.js \
 /Users/garytse/workspace/tester/platforms/android/assets/www/plugins/com.borismus.webintent \
 /Users/garytse/workspace/tester/platforms/android/assets/www/plugins/com.borismus.webintent/www \
 /Users/garytse/workspace/tester/platforms/android/assets/www/plugins/com.borismus.webintent/www/webintent.js \
