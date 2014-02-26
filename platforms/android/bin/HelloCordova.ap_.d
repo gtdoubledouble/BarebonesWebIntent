@@ -21,6 +21,7 @@
 /Users/garytse/workspace/tester/platforms/android/assets/www/plugins \
 /Users/garytse/workspace/tester/platforms/android/assets/www/css/index.css \
 /Users/garytse/workspace/tester/platforms/android/assets/www/img/logo.png \
+/Users/garytse/workspace/tester/platforms/android/assets/www/js/app.js \
 /Users/garytse/workspace/tester/platforms/android/assets/www/js/index.js \
 /Users/garytse/workspace/tester/platforms/android/assets/www/js/jquery \
 /Users/garytse/workspace/tester/platforms/android/assets/www/js/jquery/jquery-1.9.1.min.js \
